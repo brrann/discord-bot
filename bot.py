@@ -12,7 +12,17 @@ TOKEN = os.getenv("TOKEN")
 
 ROLE_NAME = "ROBUX"  # Exact name of the role in your server
 
-FIRST_DM = "**Groups to Join:**\n\n🔗 https://www.roblox.com/communities/33289887/Urban-Shift#!/about\n\n🔗 https://www.roblox.com/communities/152867095/URBAN-SHIFT-UGC#!/about\n\n🔗 https://www.roblox.com/communities/313721528/for-tha-guys#!/about\n\n🔗 https://www.roblox.com/communities/504790841/URBAN-SHlFT\n\nI'll notify you **14 days from today** to remind you that you're now payout eligible for Robux!
+FIRST_DM = """**Groups to Join:**
+
+🔗 https://www.roblox.com/communities/33289887/Urban-Shift#!/about
+
+🔗 https://www.roblox.com/communities/152867095/URBAN-SHIFT-UGC#!/about
+
+🔗 https://www.roblox.com/communities/313721528/for-tha-guys#!/about
+
+🔗 https://www.roblox.com/communities/504790841/URBAN-SHIFT
+
+I'll notify you **14 days from today** to remind you to DM **! bran** that you're now payout eligible for Robux!"""
 
 FOLLOWUP_DM = "Hey, this is your reminder to DM **Bran** that you're payout eligible in the **ROBLOX communities** and can now buy Robux!"
 
