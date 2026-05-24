@@ -22,7 +22,9 @@ FIRST_DM = """**Groups to Join:**
 
 🔗 https://www.roblox.com/communities/504790841/URBAN-SHIFT
 
-I'll notify you **14 days from today** to remind you to DM **! bran** that you're now payout eligible for Robux!"""
+I'll notify you **14 days from today** to remind you to DM **! bran** that you're now payout eligible for Robux!
+
+You must buy at least **10k Robux** per purchase!"""
 
 FOLLOWUP_DM = "Hey, this is your reminder to DM **Bran** that you're payout eligible in the **ROBLOX communities** and can now buy Robux!"
 
