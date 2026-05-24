@@ -24,7 +24,7 @@ FIRST_DM = """**Groups to Join:**
 
 I'll notify you **14 days from today** to remind you that you're now payout eligible for Robux!
 
-FOLLOWUP_DM = """Hey, this is your reminder to DM **Bran** that you're payout eligible in the **ROBLOX communities** and can now buy Robux! 💰"""
+FOLLOWUP_DM = "Hey, this is your reminder to DM **Bran** that you're payout eligible in the **ROBLOX communities** and can now buy Robux!"
 
 # ============================================================
 #  BOT CODE - Do not edit below this line
